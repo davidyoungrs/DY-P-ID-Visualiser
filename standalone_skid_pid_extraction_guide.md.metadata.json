@@ -1,0 +1,5 @@
+{
+  "summary": "Detailed architectural guide and step-by-step extraction plan to export the Process Skid Builder and P&ID Layout & Visualizer engine into a standalone Web application without touching or modifying the existing Anti VAMS codebase.",
+  "updatedAt": "2026-10-02T11:20:17.142244Z",
+  "userFacing": true
+}
